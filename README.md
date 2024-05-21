@@ -1,10 +1,7 @@
 # Network and Backend Developer
 
 ## About Me
-I am the Founder and CEO of Viola Network (violanetwork.com). I possess extensive experience as a network and backend developer, proficient in Node.js, Java, SQL, Perl, Ruby, HTML (with a little CSS), and JavaScript. I am currently expanding my skillset by learning Go. My online presence is as follows:
-
-- Discord: zyleree
-- Twitter: @Zyleree
+I am the Founder and CEO of Viola Network (violanetwork.com). I possess extensive experience as a network and backend developer, proficient in Node.js, Java, SQL, Perl, Ruby, HTML (with a little CSS), and JavaScript. I am currently expanding my skillset by learning Go. 
 
 ## Skills
 - **Node.js**: Experienced in building scalable and efficient backend applications using Node.js and its associated frameworks and libraries.
