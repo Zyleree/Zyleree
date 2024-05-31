@@ -1,6 +1,6 @@
 # Network and Backend Developer
 
-## About Mee
+## About Me
 I am the Founder and CEO of Viola Network (violanetwork.com). I possess extensive experience as a network and backend developer, proficient in Node.js, Java, SQL, Perl, Ruby, HTML (with a little CSS), and JavaScript. I am currently expanding my skillset by learning Go. 
 
 ## Skills
