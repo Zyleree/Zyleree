@@ -1,5 +1,6 @@
-Backend, Network & infrastructure Developer
--------------------------------------------I am the Founder and CEO of Viola Network (violanetwork.com). I possess experience as a network, backend & infrastructure developer, proficient in Node.js, Java, SQL, Perl, Ruby, HTML (with a little CSS), and JavaScript.* ✉️  You can contact me at [zylereework@gmail.com](mailto:zylereework@gmail.com )* 🚀  I'm currently working on [Rubiax](http://github.com/Viola-Network/ParentServer-Discord-Bots-)* 🧠  I'm learning Golang
+## Backend, Network & infrastructure Developer
+
+I am the Founder and CEO of Viola Network (violanetwork.com). I possess experience as a network, backend & infrastructure developer, proficient in Node.js, Java, SQL, Perl, Ruby, HTML (with a little CSS), and JavaScript.* ✉️  You can contact me at [zylereework@gmail.com](mailto:zylereework@gmail.com )* 🚀  I'm currently working on [Rubiax](http://github.com/Viola-Network/ParentServer-Discord-Bots-)* 🧠  I'm learning Golang
 
 ### Skills
 
