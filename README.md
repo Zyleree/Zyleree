@@ -85,18 +85,11 @@
 <a href="https://stackoverflow.com/users/25467941/zylere" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/Zyleree" target="_blank">
+<a href="https://www.youtube.com/@Zyleree" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=zyleree&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
+<br />
 
 ----
