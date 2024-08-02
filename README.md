@@ -1,4 +1,4 @@
-### <div align="center">I am the Founder and CEO of Viola Network (violanetwork.com). I possess experience as a network, backend & infrastructure developer, proficient in Node.js, Java, SQL, Perl, Ruby, HTML (with a little CSS), and JavaScript.</div>  
+### <div align="center">I am the Founder and CEO of [Viola Network](https://violanetwork.com)  I possess experience as a network, backend & infrastructure developer, proficient in Node.js, Java, SQL, Perl, Ruby, HTML (with a little CSS), and JavaScript.</div>  
   
 
 - 🔭 I’m currently working on [Fortify](https://github.com/Zyleree/Fortify)  
