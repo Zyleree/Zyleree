@@ -1,4 +1,4 @@
-<h3 align="center">Infrastructure,Network,Backend Developer working at @viola-network</h3>
+<h3 align="center">Infrastructure,Network,Backend Developer. Working at https://violanetwork.com</h3>
 
 - I’m currently working on [KronoxCore](https://github.com/Zyleree/KronoxCore)
 
