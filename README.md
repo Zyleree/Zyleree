@@ -7,10 +7,13 @@ A  backend developer with 5 years of experience, learning frontend development. 
 ## Tech Stack
 **Backend**
 `Golang` `Python` `Ruby` `Java` `JavaScript` `Perl` `PHP` `Ruby on Rails`
+
 **Databases**
 `MongoDB` `MariaDB` `MySQL` `Redis`
+
 **Cloud Platforms**
 `Azure` `AWS` `GCP`
+
 **IoT**
 `Raspberry Pi` `Arduino` `PyTorch`
 
