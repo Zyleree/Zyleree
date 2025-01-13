@@ -1,8 +1,6 @@
 # Zyleree
 
-### Full Stack Developer | IoT Specialist | Cloud Engineer
-
-A  backend developer with 5 years of experience, learning frontend development. Network developer with 3 years of expertise. Founder of [Viola Network](https://violanetwork.com).
+A backend developer with 5 years of experience, learning frontend development. Network developer with 3 years of expertise. Founder of [Viola Network](https://violanetwork.com).
 
 ## Tech Stack
 **Backend**
