@@ -1,6 +1,4 @@
-
-[![Website](https://img.shields.io/badge/Website-zyleree.pro-blueviolet)](https://zyleree.pro)
-**🌐 Visit [zyleree.pro](https://zyleree.pro) to learn more about me and my projects!**
+A good developer
 
 
 ## 📫 How to reach me
